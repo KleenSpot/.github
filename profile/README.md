@@ -12,7 +12,7 @@
 ## Klenespot 👋
 Kleenspot is dedicated to simplifying home living across Africa, beginning with Nairobi. We believe that individuals should be able to focus on their passions and pursuits, without the added burden of repetitive household tasks. That's why we offer a unique service that delivers household service convenience to your doorstep, allowing you to live a more comfortable and fulfilling life.
 
-## Contribution Guidelines🌈
+## Contribution Guidelines
 We welcome contributions from the community! If you're interested in getting involved, please review our contribution guidelines to learn how to contribute.
 
 ## Useful Resources👩‍
