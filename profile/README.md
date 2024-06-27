@@ -9,7 +9,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-## Klenespot 👋
+## Qlenespot 👋
 Kleenspot is dedicated to simplifying home living across Africa, beginning with Nairobi. We believe that individuals should be able to focus on their passions and pursuits, without the added burden of repetitive household tasks. That's why we offer a unique service that delivers household service convenience to your doorstep, allowing you to live a more comfortable and fulfilling life.
 
 ## Contribution Guidelines
